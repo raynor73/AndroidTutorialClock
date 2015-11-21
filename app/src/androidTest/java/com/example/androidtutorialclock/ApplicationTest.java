@@ -1,4 +1,4 @@
-package org.ilapin.androidtutorialclock;
+package com.example.androidtutorialclock;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package org.ilapin.androidtutorialclock;
+package com.example.androidtutorialclock;
 
 import org.junit.Test;
 
