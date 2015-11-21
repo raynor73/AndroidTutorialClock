@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "org.ilapin.androidtutorialclock"
+        applicationId "com.example.androidtutorialclock"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
